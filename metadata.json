@@ -1,0 +1,5 @@
+{
+  "name": "Smart Voice Recorder",
+  "description": "Records audio, transcribes it, corrects errors using AI, and copies to clipboard.",
+  "requestFramePermissions": ["microphone", "clipboard-write"]
+}
